@@ -1,5 +1,6 @@
 # fazer um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
 num = int(input('Digite um número inteiro: '))
+
 print('-' * 15)
 print(f'{num} x 1 = {num * 1}')
 print(f'{num} x 2 = {num * 2}')
