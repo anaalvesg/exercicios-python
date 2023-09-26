@@ -3,4 +3,4 @@
 carteira = float(input('Quanto dinheiro você tem na carteira? R$ '))
 dolar = carteira / 4.99
 
-print('Você pode comprar US$ {:.2f}!' .format(x))
+print('Você pode comprar US$ {:.2f}!' .format(dolar))
